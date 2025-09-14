@@ -7,6 +7,9 @@ Configure Tricky Store target.txt with KSU WebUI.
 > [!WARNING]
 > This module is **not** a part of the Tricky Store module. DO NOT report any issues to Tricky Store if encountered.
 
+## Language
+-.[Chinese](https://github.com/Utility-Software-Collection/Tricky-Addon-Update-Target-List-unofficial/blob/main/readme%20CN.md)
+
 ## Requirements
 - [Tricky store](https://github.com/5ec1cff/TrickyStore) module installed
 
